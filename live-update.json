@@ -1,7 +1,7 @@
 {
-    "versionCode": 220,
-    "versionName": "2.1.10",
-    "releaseNotes": "Live-App-Updates werden jetzt wie Devbuilds im Browser heruntergeladen. Die Installation wird anschließend von Android bestätigt.",
-    "apkUrl": "https://github.com/aniworldreleases/AniWorld-Releases/releases/download/v2.1.10/aniworld-design.apk",
-    "sha256": "509BBEE2CBF0C8CA47582197213B032ED2B698ADC098CA698882E1ADE583FA64"
+    "versionCode": 221,
+    "versionName": "2.1.11",
+    "releaseNotes": "Der Livechat und andere Echtzeitfunktionen verwenden jetzt wie Devbuilds HTTP-Polling für das neue PHP-Backend.",
+    "apkUrl": "https://github.com/aniworldreleases/AniWorld-Releases/releases/download/v2.1.11/aniworld-design.apk",
+    "sha256": "B6431BCFED8ABBD3532A813FB558B34768ABABC454ADF0776761D9EA53CF24FF"
 }
