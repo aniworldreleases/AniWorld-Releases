@@ -1,7 +1,7 @@
 {
-    "versionCode": 221,
-    "versionName": "2.1.11",
-    "releaseNotes": "Der Livechat und andere Echtzeitfunktionen verwenden jetzt wie Devbuilds HTTP-Polling für das neue PHP-Backend.",
-    "apkUrl": "https://github.com/aniworldreleases/AniWorld-Releases/releases/download/v2.1.11/aniworld-design.apk",
-    "sha256": "B6431BCFED8ABBD3532A813FB558B34768ABABC454ADF0776761D9EA53CF24FF"
+    "versionCode": 222,
+    "versionName": "2.1.12",
+    "releaseNotes": "\u00d6ffentliche Profile und Profilbutton zeigen zwischengespeicherte Profilbilder und Profildaten sofort an; Rahmen, Titel und Profilthema werden direkt mitgeladen und im Hintergrund aktualisiert.",
+    "apkUrl": "https://github.com/aniworldreleases/AniWorld-Releases/releases/download/v2.1.12/aniworld-design.apk",
+    "sha256": "E41AC0D89E3AA05A1778EA41D332568157CBD1FF8C40BD5DDF7D8A6F44824C82"
 }
