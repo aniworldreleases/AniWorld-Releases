@@ -1,7 +1,7 @@
 {
-  "versionCode": 218,
-  "versionName": "2.1.8",
-  "releaseNotes": "Die Profilverwaltung öffnet sich schneller und zeigt Profildaten direkt an. Das Profilbild im Profilbutton wird sofort aus dem lokalen Cache angezeigt und im Hintergrund aktualisiert.",
-  "apkUrl": "https://github.com/aniworldreleases/AniWorld-Releases/releases/download/v2.1.8/aniworld-design.apk",
-  "sha256": "28DBA9EC16F4D7291DA372E122863C390145E60636EC33C20D4E891866967273"
+    "versionCode": 219,
+    "versionName": "2.1.9",
+    "releaseNotes": "Mit diesem Update wurden gespeicherte App-Konten einmalig abgemeldet. Bitte melde dich erneut an, um dein Profil und die Synchronisierung weiter zu nutzen.",
+    "apkUrl": "https://github.com/aniworldreleases/AniWorld-Releases/releases/download/v2.1.9/aniworld-design.apk",
+    "sha256": "5A97A3F523956F13D6BA64B8DD86A6F142818F44665A380673EC20F0218A68BB"
 }
