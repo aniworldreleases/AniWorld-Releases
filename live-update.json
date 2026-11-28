@@ -1,7 +1,7 @@
 {
-    "versionCode": 222,
-    "versionName": "2.1.12",
-    "releaseNotes": "\u00d6ffentliche Profile und Profilbutton zeigen zwischengespeicherte Profilbilder und Profildaten sofort an; Rahmen, Titel und Profilthema werden direkt mitgeladen und im Hintergrund aktualisiert.",
-    "apkUrl": "https://github.com/aniworldreleases/AniWorld-Releases/releases/download/v2.1.12/aniworld-design.apk",
-    "sha256": "E41AC0D89E3AA05A1778EA41D332568157CBD1FF8C40BD5DDF7D8A6F44824C82"
+    "versionCode": 223,
+    "versionName": "2.1.13",
+    "releaseNotes": "Animierte Profilthemen bewegen sich wieder korrekt. Die Serienbewertung zeigt die accountweite Sperre an und blockiert weitere Bewertungen während des Countdowns.",
+    "apkUrl": "https://github.com/aniworldreleases/AniWorld-Releases/releases/download/v2.1.13/aniworld-design.apk",
+    "sha256": "2C8FB5D1878BC704DA271F150F99B816D9F977FEF053FB20ED61E75ADB715908"
 }
