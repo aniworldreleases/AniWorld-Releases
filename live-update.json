@@ -1,7 +1,7 @@
 {
-    "versionCode": 223,
-    "versionName": "2.1.13",
-    "releaseNotes": "Animierte Profilthemen bewegen sich wieder korrekt. Die Serienbewertung zeigt die accountweite Sperre an und blockiert weitere Bewertungen während des Countdowns.",
-    "apkUrl": "https://github.com/aniworldreleases/AniWorld-Releases/releases/download/v2.1.13/aniworld-design.apk",
-    "sha256": "2C8FB5D1878BC704DA271F150F99B816D9F977FEF053FB20ED61E75ADB715908"
+  "versionCode": 224,
+  "versionName": "2.1.14",
+  "releaseNotes": "Watchparty-Einladungen erkennen Merklisteinträge mit Serien-, Staffel- oder Episoden-URLs jetzt zuverlässig.",
+  "apkUrl": "https://github.com/aniworldreleases/AniWorld-Releases/releases/download/v2.1.14/aniworld-design.apk",
+  "sha256": "B25073790DCEBB8015E3C72A4BAE97FFAE1A2D4843F1E6C59511DF5698BB5675"
 }
