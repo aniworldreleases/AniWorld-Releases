@@ -1,7 +1,7 @@
 {
-    "versionCode": 219,
-    "versionName": "2.1.9",
-    "releaseNotes": "Mit diesem Update wurden gespeicherte App-Konten einmalig abgemeldet. Bitte melde dich erneut an, um dein Profil und die Synchronisierung weiter zu nutzen.",
-    "apkUrl": "https://github.com/aniworldreleases/AniWorld-Releases/releases/download/v2.1.9/aniworld-design.apk",
-    "sha256": "5A97A3F523956F13D6BA64B8DD86A6F142818F44665A380673EC20F0218A68BB"
+    "versionCode": 220,
+    "versionName": "2.1.10",
+    "releaseNotes": "Live-App-Updates werden jetzt wie Devbuilds im Browser heruntergeladen. Die Installation wird anschließend von Android bestätigt.",
+    "apkUrl": "https://github.com/aniworldreleases/AniWorld-Releases/releases/download/v2.1.10/aniworld-design.apk",
+    "sha256": "509BBEE2CBF0C8CA47582197213B032ED2B698ADC098CA698882E1ADE583FA64"
 }
