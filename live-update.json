@@ -1,7 +1,7 @@
 {
-  "versionCode": 217,
-  "versionName": "2.1.7",
-  "releaseNotes": "Änderungen am eigenen Profil werden sofort sichtbar. Der Vollbildmodus bleibt auch bei kurzen Schwankungen des Orientierungssensors stabil. Die Navigation funktioniert nach dem An- und Abmelden zuverlässig. Freunde lassen sich entfernen; damit endet die Freundschaft auf beiden Seiten. Die Benachrichtigungsansicht der Glocke wurde neu gestaltet. Erinnerungen an Bewertungen und Verbesserungsvorschläge erscheinen seltener; erledigte Glocken-Benachrichtigungen werden zuverlässig aufgelöst.",
-  "apkUrl": "https://github.com/aniworldreleases/AniWorld-Releases/releases/download/v2.1.7/aniworld-design.apk",
-  "sha256": "6da25551b579f83508d3a0bd50c08de8092e64cbceecbf359027c064e9069bdd"
+  "versionCode": 218,
+  "versionName": "2.1.8",
+  "releaseNotes": "Die Profilverwaltung öffnet sich schneller und zeigt Profildaten direkt an. Das Profilbild im Profilbutton wird sofort aus dem lokalen Cache angezeigt und im Hintergrund aktualisiert.",
+  "apkUrl": "https://github.com/aniworldreleases/AniWorld-Releases/releases/download/v2.1.8/aniworld-design.apk",
+  "sha256": "28DBA9EC16F4D7291DA372E122863C390145E60636EC33C20D4E891866967273"
 }
